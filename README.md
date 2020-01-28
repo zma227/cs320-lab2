@@ -1,1 +1,1 @@
-# cs320-lab2
+Apple: We create smartphones. # cs320-lab2
